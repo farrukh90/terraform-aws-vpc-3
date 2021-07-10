@@ -19,6 +19,7 @@ module "app_name" {
         Billing = "CFO"
         Quarter = "3"
         AppName = "Wordpress"
+        Changed = "on-purpose"
     }
 }
 
